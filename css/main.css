@@ -2,6 +2,7 @@
     background-color: #6f42c1;
 }
 
- {
-    background-color: indigo
+header {
+
+    background-color: indigo !important; 
 }
