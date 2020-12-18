@@ -6,4 +6,9 @@
 body {
   padding-top: 56px;
 }
-
+.dropdown-content {
+  right:0;
+}
+.btn btn-primary {
+  background-color: #6f42c1
+}
